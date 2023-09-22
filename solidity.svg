@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <!-- Background -->
+  <rect width="100" height="100" fill="#363636" />
+  
+  <!-- Solidity Text -->
+  <text x="10" y="45" font-family="Arial, sans-serif" font-size="35" fill="#ffffff">S</text>
+  <text x="30" y="45" font-family="Arial, sans-serif" font-size="35" fill="#ffffff">O</text>
+  <text x="50" y="45" font-family="Arial, sans-serif" font-size="35" fill="#ffffff">L</text>
+  <text x="70" y="45" font-family="Arial, sans-serif" font-size="35" fill="#ffffff">I</text>
+  <text x="90" y="45" font-family="Arial, sans-serif" font-size="35" fill="#ffffff">D</text>
+</svg>
